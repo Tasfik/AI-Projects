@@ -1,3 +1,4 @@
 # AI-Projects
-[![Build Status]
+[![Build Status]]
+
 AI,ML &amp; Data Science Projects
