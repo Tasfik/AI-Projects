@@ -1,4 +1,4 @@
 # AI-Projects
-[![Build Status](https://travis-ci.org/alexwolfe/Buttons.svg?branch=buttons-2)](https://travis-ci.org/alexwolfe/Buttons)
+[![Data Science](https://travis-ci.org/alexwolfe/Buttons.svg?branch=buttons-2)](https://github.com/Tasfik/AI-Projects/)
 
 AI,ML &amp; Data Science Projects
